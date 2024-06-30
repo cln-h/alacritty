@@ -1,6 +1,7 @@
 import = [
-  "~/.config/alacritty/themes/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/themes/catppuccin-macchiato.toml"
   # "~/.config/alacritty/themes/catppuccin-mocha.toml"
+  "~/.config/alacritty/themes/rose-pine.toml"
 ]
 
 [env]
